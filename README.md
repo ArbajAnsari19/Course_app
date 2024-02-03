@@ -1,4 +1,4 @@
-#CourseApp
+<h1>#CourseApp 📚💻</h1>
 ## Course Selling Website 
 
 This repository contains the source code for the admin dashboard of a Course Selling Website. The dashboard is built using React for the frontend and Node.js with Express for the backend. MongoDB is used as the database to manage course information. The repository is structured into two main components: the frontend and the backend.
@@ -13,7 +13,7 @@ Before running the frontend, ensure you have Node.js and npm (Node Package Manag
 
 #### 0. Open terminal and make sure you are in the right directory:
 ```ruby
-git clone https://github.com/sunilsimar/Course-App.git
+git clone https://github.com/ArbajAnsari19/Course_app.git
 ```
 #### 1. Navigate to the Course-Frontend directory:
 ```ruby
